@@ -8,6 +8,8 @@ You can fork this and make yours.
 - Edit the HTML pages according to your own
 - That's it! Navigate to 'username.github.io' to see your website :)
 
+Here is the personla website https://nidhirai1.github.io/
+
 ## Credits
 - <a href="https://github.com/Bloggify/github-calendar" target=_blank> Github Calendar by Bloggify </a>
 - <a href="https://github.com/soumyajit4419/Portfolio" target=_blank> Soumyajit Behera </a>
